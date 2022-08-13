@@ -1,0 +1,3 @@
+D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\Definitions.Tankogedon.h
+D:\Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

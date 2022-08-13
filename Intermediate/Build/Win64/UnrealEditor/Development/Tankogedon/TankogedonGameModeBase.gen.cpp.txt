@@ -1,0 +1,9 @@
+D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\Definitions.Tankogedon.h
+D:\Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE5projects\Tankogedon\Source\Tankogedon/TankogedonGameModeBase.h
+D:\Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Inc\Tankogedon\TankogedonGameModeBase.generated.h
