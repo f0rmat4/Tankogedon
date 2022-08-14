@@ -1,0 +1,3 @@
+D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\Definitions.Tankogedon.h
+D:\UE5projects\Tankogedon\Source\Tankogedon\TankPlayerController.h
+D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Inc\Tankogedon\TankPlayerController.generated.h

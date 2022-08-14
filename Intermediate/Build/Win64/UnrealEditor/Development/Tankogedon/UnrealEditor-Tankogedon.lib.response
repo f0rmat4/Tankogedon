@@ -9,8 +9,12 @@
 "D:\UE5projects\Tankogedon\Intermediate\Build\Win64\TankogedonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\Tankogedon.cpp.obj"
 "D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\TankogedonGameModeBase.cpp.obj"
+"D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\TankPawn.cpp.obj"
+"D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\TankPlayerController.cpp.obj"
 "D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\Tankogedon.init.gen.cpp.obj"
 "D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\TankogedonGameModeBase.gen.cpp.obj"
+"D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\TankPawn.gen.cpp.obj"
+"D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\TankPlayerController.gen.cpp.obj"
 "D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\Default.rc2.res"
 /OUT:"D:\UE5projects\Tankogedon\Intermediate\Build\Win64\UnrealEditor\Development\Tankogedon\UnrealEditor-Tankogedon.lib"
 /INCLUDE:IMPLEMENT_MODULE_Tankogedon

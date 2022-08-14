@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTankogedon_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE2D20285,
-				0x6C71E1B8,
+				0x2EC4952B,
+				0xDE5BA016,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
